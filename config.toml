@@ -1,0 +1,21 @@
+baseURL = 'https://joachimkennedy.com/'
+languageCode = 'en-us'
+title = 'Joachim Kennedy'
+author = 'Joachim Kennedy'
+theme = 'contrast-hugo'
+
+[params]
+    minimal = false
+    description = 'my blog'
+
+[menu]
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+    weight = 10
+[[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/p/"
+    weight = 10
