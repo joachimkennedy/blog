@@ -19,3 +19,8 @@ theme = 'contrast-hugo'
     name = "Blog"
     url = "/p/"
     weight = 10
+[[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/p/index.xml"
+    weight = "10"

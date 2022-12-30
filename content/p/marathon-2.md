@@ -14,7 +14,7 @@ I probably averaged once or twice a week.
 I always tried to go out at least once when it was snowing.
 That's the most fun and magical even if it's not great for training.
 
-I naturally ran a little more over the Summer, more because the weather was nice than anything.
+I naturally ran a little more over the Summer, more because the weather was nice than anything else.
 That was around the time I was quitting my job and moving around a lot, so I had nothing like a consistent schedule.
 
 After I got settled in Seattle, I started running much more, up to around 4 days a week.
@@ -32,7 +32,7 @@ I just couldn't pass up the deal.
 Twice the miles for only a few dollars more.
 
 Based on the training plan I had used the previous year, a month before the race, I was already supposed to be tapering.
-Since I hadn't been training nearly as much, I knew I handle a much shorter 1-2 week taper.
+Since I hadn't been training nearly as much, I knew I could handle a much shorter 1-2 week taper.
 Instead I just crammed a [Marathon blog](https://fellrnr.com/wiki/Running_Marathons) and did a few quicker runs to practice good cadence.
 
 # The Goal
