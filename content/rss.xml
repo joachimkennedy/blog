@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+	<title>Joachim Kennedy</title>
+	<link>https://www.joachimkennedy.com</link>
+	<description>Blog</description>
+	<item>
+        <title>New RSS xml</title>
+		<link>https://www.joachimkennedy.com/index.xml</link>
+        <description>I moved to a Hugo which automatically generates an rss feed, and the link is https://www.joachimkennedy.com/index.xml.</description>
+	</item>
+</channel>
+</rss>

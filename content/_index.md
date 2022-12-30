@@ -1,5 +1,4 @@
 ---
-title: "Hello!"
 ---
 
 Hi! My name is Joachim Kennedy.

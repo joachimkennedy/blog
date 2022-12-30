@@ -22,5 +22,5 @@ theme = 'contrast-hugo'
 [[menu.main]]
     identifier = "rss"
     name = "RSS"
-    url = "/p/index.xml"
+    url = "/index.xml"
     weight = "10"
