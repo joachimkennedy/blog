@@ -18,7 +18,7 @@ I look up, and it's time to go to sleep and do it all again.
 That's a problem because even ignoring all the things I want to learn, hobbies I want to try out, and essays I want to read, I have chores and cooking to do.
 
 And that's why I started getting up at 5:30.
-I'm taking advantage of the fast that I'm a stupid primate to reserve two hours in the morning for chores and hobbie (mainly writing at this point).
+I'm taking advantage of the fast that I'm a stupid primate to reserve two hours in the morning for chores and hobbies (mainly writing at this point).
 I am less likely to procrastinate in the morning.
 I have an artificial deadline.
 If I set a goal for myself, then I feel like I need to get it done before the bus comes.
