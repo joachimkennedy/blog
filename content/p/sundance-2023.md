@@ -1,7 +1,6 @@
 ---
 title: "Sundance 2023"
 date: 2023-02-03T08:41:18-08:00
-draft: true
 ---
 
 Last week, I went to Salt Lake City for the Sundance Film Festival.
