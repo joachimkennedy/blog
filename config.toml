@@ -5,7 +5,7 @@ author = 'Joachim Kennedy'
 theme = 'contrast-hugo'
 
 [params]
-    minimal = false
+    minimal = true
     description = 'my blog'
 
 [menu]
