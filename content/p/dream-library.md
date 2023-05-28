@@ -54,6 +54,7 @@ This is also just a long-winded, fantastical way of saying these are the books I
 # Other
 
 * *Calvin and Hobbes*+ by Bill Watterson
+* *Frog and Toad*+ by Arnold Lobel
 * *The Far Side*+ by Gary Larson
 * *Salt Fat Acid Heat* by Samin Nosrat
 * *A Field Guide to American Houses**+ by Virginia and Lee McAlester

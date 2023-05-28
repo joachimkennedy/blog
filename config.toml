@@ -24,3 +24,9 @@ theme = 'contrast-hugo'
     name = "RSS"
     url = "/index.xml"
     weight = "10"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
