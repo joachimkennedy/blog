@@ -4,11 +4,13 @@ date: 2023-01-16T11:42:19-08:00
 draft: true
 ---
 
-* Clearer thinking / Intrinsic motivation
-* The Great Divorce
 * git commit is strangely poetic
+* What is vcing your personality? / How to?
+* What would it not be?
+* Grease the movie and that one line in Community
 
-* Writing after getting dumped
+---
+### Writing after getting dumped
 
 For a while now, I have wanted to write about how I dealt with a girl breaking up with me in college, but I haven't been able to think of a way to frame it that doesn't just make it sound incredibly sad.
 It's a strategy or at least a rationale that I don't hear much about, and I found it tremendously helpful, so excuse me while I induce kidney damage from patting myself on the back too hard.
@@ -30,6 +32,9 @@ By writing obsessively, I was able to have my cake and eat it too.
 I know exactly how I felt at the time because I've written it down.
 Meanwhile, the rest of myself has been able to grow and move on and do other things.
 
+---
+### insomnia
+
 I get acute insomnia every month or so.
 The infuriating thing about insomnia is not that you're not tired.
 If I weren't tired, I just wouldn't sleep.
@@ -48,9 +53,15 @@ If you don't have an inner monologue, I don't know how you would do this, but fo
 When I get to that state, I try to prolong it for as long as possible and let the wind blow through my mind while I hold my breath.
 After a few seconds, I inevitably do start to notice my breath and subsequently the fact that I'm noticing, but by that point the ruminations have been supplanted by the nonsense sentences that give way to dreams.
 
+---
+### The Great Divorce
+
 The word "want" is insufficient in this context.
 The ghosts in The Great Divorce visiting the foothills of Heaven "want" to continue their familiar, miserable existences, but some part of them also "wants" to be free of it.
 Call it Id and Superego, Lizard brain and Human brain, Instant Gratification Monkey and Rational Decision-Maker, under some definitions of "want", it is possible, even banal to have competing desires.
+
+---
+### Clearer Thinking and Intrinsic Values
 
 Earlier this year, after hearing about it from an 80K Hours interview with Spencer Greenberg, the founder of clearerthinking.org, I went to take a survey on "intrinsic values".
 The concept is that some values, like financial stability or--according to them--food, are only means to ends.
@@ -67,6 +78,19 @@ If at time t0, you have some value for maximizing or maintaining x (e.g. produci
 No true artist wants to become a sell-out; no true zealot wants to become an apostate (and no true Scotsman wants to put sugar on his porridge).
 Of course, evaluated at time t1 with some new value, you may have the perspective to say, "This lucrative record deal really is the best thing for me financially" or "Yikes, she was kind of a bad person".
 The most tragic aspect of The Great Divorce is that you know that if any of the characters got even the briefest glimpse of Heaven outside their messed up value systems, the choice would be trivial.
-What is vcing your personality? / How to?
-What would it not be?
-Grease the movie and that one line in Community
+
+---
+### git
+Although there are many types of version control, git is the most popular and unnecessarily poetic as well as the one I'm most familiar with.
+As the name suggests, version control is a method of tracking changes made to code.
+Each change, called a commit, should represent one independent conceptual difference from the code before it (i.e. adding a feature, removing a bug).
+The changes themselves could range from a single character to many lines, but it should be possible to convey in a [how long is a commit message] X character "commit message".
+Lots of nice side effects come with commits representing independent changes.
+Two people can checkout the same code, make two independent commits, and merge them back into the communal briefcase where you keep code, and not worry (too much) about things breaking.
+
+For our purposes, these also make it very easy to undo mistakes.
+If you suddenly realize that you're writing a bunch of useless code, you can run `git restore .` to undo all your unsaved changes and get back to the commit you were working from.
+You can also `git revert` a commit to undo a whole commit (independently of other commits!) or `git commit --amend` if you forgot to include some change that was supposed to go in that commit.
+If you're not sure whether you've made a huge mistake, you can always `git diff` to compare your current changes with the recent commit or compare two commits against each other.
+
+---
