@@ -1,6 +1,7 @@
 ---
 title: "Reality Dating Show Tier List"
 date: 2022-03-11T07:02:21-08:00
+tags: ['2022']
 ---
 
 I don't know how much I feel like disclaiming this.

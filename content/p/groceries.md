@@ -1,6 +1,7 @@
 ---
 title: "How To Grocery Shop"
 date: 2021-10-27T18:16:04-08:00
+tags: ['2021']
 ---
 
 Minor plagiarism warning: I'm about to describe how my mom buys groceries and pretend that I reasoned it out from first principles to make myself feel better about shopping inefficiently for a while.
@@ -61,7 +62,3 @@ Without having to worry about staples, I can focus more on getting everything I 
 
 Although I probably won't want to do more than one grocery run per month, as long as I'm diligent about staying stocked up, it should be less of a burden to run to the store for one or two items if I'm craving them or need them for a recipes.
 This will be much less stressful when I don't have to worry about everything that I'm short on.
-
----
-
-

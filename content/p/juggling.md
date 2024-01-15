@@ -1,6 +1,7 @@
 ---
 title: "How To Juggle"
 date: 2023-02-10T06:29:15-08:00
+tags: ['2023']
 ---
 
 ### Step 1: Have a breakdown

@@ -1,6 +1,7 @@
 ---
 title: "Why I'm Starting A Blog"
 date: 2021-06-10T16:17:32-07:00
+tags: ['2021']
 ---
 
 Just over a year ago, I started a consistent weekly journaling habit.
@@ -78,6 +79,4 @@ For this blog, I want to be able to produce an archive of essays that I'm proud 
 
 Again, in this most unordered list, I intentionally left this reason to the end to set it apart.
 While all the other reasons are self-centered, it is important to me to that this is not just some vanity project and that there is some potential for others to find value in the things that I write.
-
----
 

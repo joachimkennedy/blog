@@ -1,6 +1,7 @@
 ---
 title: "How To Use Spotify"
 date: 2022-04-29T08:44:00-08:00
+tags: ['2022']
 ---
 
 # Prelude

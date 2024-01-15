@@ -1,6 +1,7 @@
 ---
 title: "Maximizing vs. Satisficing"
 date: 2021-07-17T19:16:08-08:00
+tags: ['2021']
 ---
 
 A friend recently introduced me to the concept of "familect", which, as the name suggests, refers to a set of words or phrases that are only used and understood within a small, tight-knit group or family.
@@ -50,5 +51,3 @@ My sister has since informed me that I have this exactly backwards, and I apolog
 Satisficers tend to be happier than Maximizers.
 I'll avoid giving some explanation because this is exactly what is wrong with social science and why people need to preregister their studies.
 I will say that I find it hilarious that, even though I got the result wrong, the correct result was more intuitive to me.
-
---- 

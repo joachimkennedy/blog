@@ -1,6 +1,7 @@
 ---
 title: "Habits Are Overrated"
 date: 2022-06-24T08:44:27-08:00
+tags: ['2022']
 ---
 
 This is a post about how people overemphasize the importance of habits.

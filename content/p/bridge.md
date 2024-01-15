@@ -1,6 +1,7 @@
 ---
 title: "The Bridge Problem"
 date: 2022-10-02T08:44:41-08:00
+tags: ['2022']
 ---
 
 # Preamble

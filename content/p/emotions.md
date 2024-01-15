@@ -1,6 +1,7 @@
 ---
 title: "Emotions And Jameses"
 date: 2022-11-29T08:45:06-08:00
+tags: ['2022']
 ---
 
 I recently had the pleasure of seeing James Acaster perform his new show, *Hecklers Welcome*, on his short US tour.

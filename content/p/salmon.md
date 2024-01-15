@@ -1,6 +1,7 @@
 ---
 title: "An Essay Of The Perfect Length"
 date: 2022-06-04T08:44:08-08:00
+tags: ['2022']
 ---
 
 I'd like to begin with a minor spoiler for *My Brilliant Friend* which I recently enjoyed.

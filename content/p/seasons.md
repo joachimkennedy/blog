@@ -1,6 +1,7 @@
 ---
 title: "Happy Vernal Equinox!"
 date: 2022-03-19T07:02:33-08:00
+tags: ['2022']
 ---
 
 I know I'm a little early, but I hope you'll indulge me.

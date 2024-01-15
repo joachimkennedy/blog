@@ -1,6 +1,7 @@
 ---
 title: "Announcing Office Hours"
 date: 2023-04-12T08:52:26-07:00
+tags: ['2023']
 ---
 
 *tl;dr: If you're in Seattle, come hang out at my apartment [sometimes](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).*

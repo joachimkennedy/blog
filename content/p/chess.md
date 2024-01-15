@@ -1,6 +1,7 @@
 ---
 title: "Heuristics In Chess"
 date: 2021-12-31T06:40:32-08:00
+tags: ['2021']
 ---
 
 To me, one of the most fascinating aspects of Chess is the relative value of the pieces.

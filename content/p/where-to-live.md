@@ -1,6 +1,7 @@
 ---
 title: "Where Should I Live?"
 date: 2022-01-14T07:01:00-08:00
+tags: ['2022']
 ---
 
 In college, I got some career advice about that I really like.

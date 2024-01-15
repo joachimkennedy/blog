@@ -1,6 +1,7 @@
 ---
 title: "I Couldn't Operant Condition Myself"
 date: 2022-03-03T07:02:05-08:00
+tags: ['2022']
 ---
 
 **Almost certainly an idea stolen from someone else**

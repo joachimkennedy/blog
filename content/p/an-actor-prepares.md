@@ -1,6 +1,7 @@
 ---
 title: "Book Review: An Actor Prepares"
 date: 2023-09-30T07:44:14-07:00
+tags: ['2023']
 ---
 
 *This is a revision of a piece I wrote for the [Astral Codex Ten book review contest](https://www.astralcodexten.com/p/book-review-contest-2023-winners) which I can reveal now that the contest is over, and all of my loyal fans can no longer sway the results.*

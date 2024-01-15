@@ -1,6 +1,7 @@
 ---
 title: "Energy Management"
 date: 2021-11-19T12:42:29-08:00
+tags: ['2021']
 ---
 
 About a month ago, I started waking up at 5:30AM on workdays.

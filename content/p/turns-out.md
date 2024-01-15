@@ -1,6 +1,7 @@
 ---
 title: "Conceptual Inflation"
 date: 2022-10-14T08:44:48-08:00
+tags: ['2022']
 ---
 
 Recently (more than 6 months ago), my dad emailed the family [an article](https://marginalrevolution.com/marginalrevolution/2022/01/buy-things-not-experiences.html) as is customary.

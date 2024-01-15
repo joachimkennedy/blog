@@ -1,6 +1,7 @@
 ---
 title: "The Bottom Of My Todo List"
 date: 2022-06-11T08:44:14-08:00
+tags: ['2022']
 ---
 
 At [the top of Paul Graham's todo list](http://paulgraham.com/todo.html) are the guiding principles, "Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy."

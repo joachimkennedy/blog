@@ -1,6 +1,7 @@
 ---
 title: "Classes vs Wikis"
 date: 2023-05-12T07:19:33-07:00
+tags: ['2023']
 ---
 
 One of my least favorite things people say (an emergent theme for the blog) is that they wish they were taught how to do taxes instead of Calculus.

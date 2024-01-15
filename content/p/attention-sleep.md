@@ -1,6 +1,7 @@
 ---
 title: "Attention And Sleep"
 date: 2022-04-01T07:02:52-08:00
+tags: ['2022']
 ---
 
 It has happened a few times already that just after I posted a blog post, I came across a better way of saying what I was trying to communicate.

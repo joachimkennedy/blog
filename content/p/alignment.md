@@ -1,6 +1,7 @@
 ---
 title: "Human Alignment Problems"
 date: 2022-02-18T07:01:51-08:00
+tags: ['2022']
 ---
 
 I've been reading recently about the [Alignment Problem](https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky?utm_source=url), the concept that superintelligent AIs may not (probably won't) share human interests like keeping current humans alive and preventing human extinction.
@@ -43,7 +44,5 @@ And that's not even to mention manufactured desire.
 
 For the nonradicals among you, another example could be a blogger who pats himself on the back every week for getting a post out.
 This system rewards a certain type and length of post (i.e. shorter ones about inconsequential semantic issues) and discourages longer, more in-depth posts.
-I grant, it's harder to devise a system that promotes putting out those longer pieces (without falling into perctionist traps).
+I grant, it's harder to devise a system that promotes putting out those longer pieces (without falling into perfectionist traps).
 I probably won't change anything soon, but I'm thinking about it.
-
----

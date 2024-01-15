@@ -1,6 +1,7 @@
 ---
 title: "Should"
 date: 2022-07-22T08:44:34-08:00
+tags: ['2022']
 ---
 
 Fifteen seconds after my MIT interviewer asked about a mistake I had made and what I learned from it, I gave up on finding a non-awkward answer and told him about the time I had a crush when I was a sophomore.

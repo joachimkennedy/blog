@@ -1,7 +1,7 @@
 ---
 title: "Rules For The Blog"
 date: 2021-06-10T21:39:16-07:00
-draft: false
+tags: ['2021']
 ---
 
 As I mentioned in my last (and first) [post](../why), I find it helpful to enumerate goals and rules for new projects.
@@ -52,5 +52,3 @@ I would be much more comfortable if I were anonymous, but that would defeat the 
 
 A corollary of writing under my own name is that I must not post anything I wouldn't want my present or future family, friends, or employers to read.
 Again, I'm not currently publicizing this site, but it's good practice to assume that anything you put on the Internet stays there.
-
----

@@ -1,6 +1,7 @@
 ---
 title: "Err In The Other Direction"
 date: 2022-02-04T07:01:34-08:00
+tags: ['2022']
 ---
 
 Of course I wish I had paid better attention in The Economics of Public Policy every day, but I especially wish I was paying attention on this particular day when the lecture was about effective tax policy.

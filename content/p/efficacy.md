@@ -1,6 +1,7 @@
 ---
 title: "Towards Efficacy"
 date: 2021-12-03T06:39:59-08:00
+tags: ['2021']
 ---
 
 Cal Newport recently wrote an [article](https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture) responding to his readers' distaste for "productivity language".

@@ -1,6 +1,7 @@
 ---
 title: "My Attention Has Been Destroyed"
 date: 2022-01-22T07:01:14-08:00
+tags: ['2022']
 ---
 
 When I was training for the decathlon in college, I noticed that multiple coaches for different events would use the word "attack".

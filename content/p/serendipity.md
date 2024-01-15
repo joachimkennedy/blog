@@ -1,6 +1,7 @@
 ---
 title: "On Serendipity"
 date: 2023-01-20T07:20:59-08:00
+tags: ['2023']
 ---
 
 This weekend, on my morning run, I saw someone riding a bike with a cat on their shoulder.

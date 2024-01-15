@@ -1,6 +1,7 @@
 ---
 title: "Writing Badly"
 date: 2021-11-12T17:16:09-08:00
+tags: ['2021']
 ---
 
 In my middle school English class discussions everyone pretty much had the same opinions about the books we read.
@@ -59,7 +60,3 @@ I struggle to allow myself to write freely on the first draft, and I'm still in 
 As a postscript, I've been trying to shoehorn the GK Chesterton quote "Anything worth doing is worth doing badly" into this post.
 I don't think that this would be worth doing if it didn't provide some value to someone (even if that someone is only myself).
 Even if I never improve significantly, I do hope that this will be something that is worth doing as badly as I am doing it write now.
-
-
-
-

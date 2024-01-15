@@ -1,6 +1,7 @@
 ---
 title: "On Drafts"
 date: 2022-02-26T07:01:58-08:00
+tags: ['2022']
 ---
 
 This post will be a bit shorter than usual.

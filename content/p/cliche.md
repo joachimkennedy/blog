@@ -1,6 +1,7 @@
 ---
 title: "On Cliche"
 date: 2022-01-29T07:01:25-08:00
+tags: ['2022']
 ---
 
 There's a passage at the beginning of Steven Pinker's *The Language Instinct* about what a miracle it is that writers can implant ideas, images, and feelings inside their readers' heads, just through words on a page.

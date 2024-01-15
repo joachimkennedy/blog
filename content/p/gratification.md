@@ -1,6 +1,7 @@
 ---
 title: "Delayed Gratification Is Not All You Need"
 date: 2022-01-08T06:40:41-08:00
+tags: ['2022']
 ---
 
 For the past few weeks, I've intended to write shorter posts.

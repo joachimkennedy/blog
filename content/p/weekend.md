@@ -1,6 +1,7 @@
 ---
 title: "When Does The Weekend?"
 date: 2022-06-19T08:44:21-08:00
+tags: ['2022']
 ---
 
 The year is 2022 CE.

@@ -1,6 +1,7 @@
 ---
 title: "Why And How To Run"
 date: 2023-01-13T07:31:30-08:00
+tags: ['2023']
 ---
 
 I've been wanting to gush about running for a while on here, but I couldn't settle on a form (ode? sonnet?).

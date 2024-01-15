@@ -1,6 +1,7 @@
 ---
 title: "Marathon Postmortem 3: North Bend"
 date: 2023-08-15T07:20:40-07:00
+tags: ['2023']
 ---
 
 A couple weeks ago on July 30th, I ran the [Jack & Jill's Downhill Marathon](http://jackjillmarathon.com/) which started in Hyak, and as the name suggests, descended 2000ft over 26.2 miles to North Bend, WA.

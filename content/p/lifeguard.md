@@ -1,6 +1,7 @@
 ---
 title: "Why I Was A Bad Lifeguard"
 date: 2022-04-08T07:03:01-08:00
+tags: ['2022']
 ---
 
 In accordance with family tradition, my high school Summer job was lifeguarding at the JCC.
