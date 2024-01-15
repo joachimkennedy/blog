@@ -1,6 +1,7 @@
 ---
 title: "EveryDollar Review"
 date: 2023-03-04T06:11:16-08:00
+tags: ['2023']
 ---
 
 I'd like to preface this by saying I'm not a financial advisor.

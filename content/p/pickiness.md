@@ -1,6 +1,7 @@
 ---
 title: "On Pickiness"
 date: 2022-02-12T07:01:43-08:00
+tags: ['2022']
 ---
 
 Although it is most commonly used in the domain of food, pickiness can be equally applied to any other matter of taste.
