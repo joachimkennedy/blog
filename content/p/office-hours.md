@@ -4,7 +4,7 @@ date: 2023-04-12T08:52:26-07:00
 tags: ['2023']
 ---
 
-*tl;dr: If you're in Seattle, come hang out at my apartment [sometimes](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).*
+*tl;dr: If you're in Seattle, come hang out at my apartment [sometimes](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Updated Feb 2, 2024*
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -65,9 +65,9 @@ I am trying to be comprehensive, but I always forget very important things, so I
 
 ### Logistics
 
-* The [schedule](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), currently Mondays 7:30 - 9:30 PM but subject to change at my slightest whim, so do check first
+* The [schedule](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), currently Tuesday 6 - 9 PM but subject to change at my slightest whim, so do check first
   * This is poorly timed because I like to be outside whenever the weather is nice, but I also go to bed early, so I don't know what will happen as the days get longer
-* No need to RSVP
+* ~~No need to RSVP~~ If the OH on the calendar doesn't say "confirmed", please do RSVP
 * Near stops for the 5, 44, 62, and E buses and there's usually free street parking within a block
   * I'm not sure where the nearest bike rack is. It's probably close, but you might be able to bring your bike inside if you need to
 * Email for the exact address and which bell inexplicably rings my apartment (or more likely my number so you can call when you arrive)

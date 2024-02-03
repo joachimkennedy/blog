@@ -47,7 +47,7 @@ This is also just a long-winded, fantastical way of saying these are the books I
 * *What I Talk About When I Talk About Running* by Haruki Murakami
 * *The Elements of Style*+ by Strunk and White
 * *Getting Things Done* by David Allen
-* *How To Travel With A Salmon*+ by Umberto Eco
+* *How To Travel With A Salmon* by Umberto Eco
 * *The Chairs Are Where The People Go*+ by Misha Glouberman (and Sheila Heti)
 * *Slouching Towards Bethelehem* by Joan Didion
 * *On Photography*+; *Regarding the Pain of Others**+ by Susan Sontag
@@ -60,8 +60,7 @@ This is also just a long-winded, fantastical way of saying these are the books I
 * *Salt Fat Acid Heat* by Samin Nosrat
 * *A Field Guide to American Houses**+ by Virginia and Lee McAlester
 * *The Phantom Tollbooth* by Norton Juster
-* *The Little Prince*+ by Antoine de Saint-Exupery
+* *The Little Prince* by Antoine de Saint-Exupery
 * *A Series of Unfortunate Events*+ by Lemony Snicket
 * *Harry Potter and the Methods of Rationality* by Eliezer Yudkowsky
 
----
