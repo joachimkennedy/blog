@@ -24,7 +24,7 @@ jobs:
         tar -xvzf hugo.tar.gz
         sudo mv hugo /usr/local/bin
     - name: Logging
-      run: pwd && ls
+      run: echo "${{ secrets.PRIVATE_KEY }}"
     - name: Generate pages
       run: hugo --cleanDestinationDir --minify
     - name: Create Key File
