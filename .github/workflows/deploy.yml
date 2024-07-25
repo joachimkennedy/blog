@@ -29,8 +29,8 @@ jobs:
       run: hugo --cleanDestinationDir --minify
     - name: Create Key File
       run: install -m 600 -D /dev/null ~/.ssh/id_rsa
-    - name: Load Host Keys
-      run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+    - name: Populate Key
+      run: echo "${{ secrets.PRIVATE_KEY }}" > ~/.ssh/id_rsa
     - name: Upload to server
       env:
         USER: root
