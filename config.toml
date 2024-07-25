@@ -11,11 +11,6 @@ theme = 'contrast-hugo'
 
 [menu]
 [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/p/"
@@ -30,6 +25,11 @@ theme = 'contrast-hugo'
     name = "Directory"
     url = "/directory/"
     weight = "10"
+[[menu.main]]
+    identifier = "rss"
+    name = "rss"
+    url = "/p/index.xml"
+    weight = "20"
 
 [markup]
   [markup.goldmark]
