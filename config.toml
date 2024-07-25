@@ -2,7 +2,7 @@ baseURL = 'https://joachimkennedy.com/'
 languageCode = 'en-us'
 title = 'Joachim Kennedy'
 author = 'Joachim Kennedy'
-theme = 'contrast-hugo'
+theme = 'contrast'
 
 [params]
     minimal = true
