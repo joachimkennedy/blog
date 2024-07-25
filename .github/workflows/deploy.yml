@@ -12,7 +12,24 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+    - name: Setup Hugo
+      env:
+        HUGO_VERSION: 0.92.2
+      run: |
+        mkdir ~/hugo
+        cd ~/hugo
+        curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
+        tar -xvzf hugo.tar.gz
+        sudo mv hugo /usr/local/bin   
     - name: Generate pages
       run: hugo --cleanDestinationDir --minify
+    - name: Create Key File
+      run: install -m 600 -D /dev/null ~/.ssh/id_rsa
+    - name: Load Host Keys
+      run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
     - name: Upload to server
-      run: rsync -avz --delete public/ root@www.joachimkennedy.com:/var/www/blog
+      env:
+        USER: root
+        HOST: www.joachimkennedy.com
+        DIR: /var/www/blog
+      run: rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
