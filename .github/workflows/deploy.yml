@@ -36,4 +36,4 @@ jobs:
         USER: root
         HOST: www.joachimkennedy.com
         DIR: /var/www/blog
-      run: rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+      run: rsync -avz 'ssh -o StrictHostKeyChecking=no' --delete public/ ${USER}@${HOST}:${DIR}
