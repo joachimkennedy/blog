@@ -9,7 +9,10 @@ jobs:
   deploy:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+    env:
+      USER: root
+      HOST: www.joachimkennedy.com
+      DIR: /var/www/blog
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - name: Checkout
@@ -28,12 +31,9 @@ jobs:
     - name: Populate Key
       run: echo "${{ secrets.PRIVATE_KEY }}" >> ~/.ssh/id_rsa
     - name: Load Host Keys
-      run: echo "${{ secrets.KNOWN_HOSTS }}" >> ~/.ssh/known_hosts
+      run: ssh-keyscan -H ${USER}@${HOST} >> ~/.ssh/known_hosts
     - name: Generate pages
       run: hugo --cleanDestinationDir --minify
     - name: Upload to server
-      env:
-        USER: root
-        HOST: www.joachimkennedy.com
-        DIR: /var/www/blog
+      
       run: rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
