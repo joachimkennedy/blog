@@ -30,6 +30,7 @@ jobs:
       uses: shimataro/ssh-key-action@v2
       with:
         key: ${{ secrets.PRIVATE_KEY }}
+        known_hosts: ssh-keygen -H ${{ secrets.SSH_HOST }}
     - name: Generate pages
       run: hugo --cleanDestinationDir --minify
     - name: Upload to server
