@@ -41,7 +41,7 @@ On the flip side, getting things done is the most consistent source of high mood
 
 Better than a clean apartment is a good conversation with a friend. This is the opposite of dreading a conversation I expect to go poorly. I'll include all kinds of [serendipitous encounters](../serendipity) in this category too. To be clear, I already expect conversations and walks to be good, but they're that much more delightful when I happen upon a concert in the park or people water skiing.
 
-Daylio is good at picking up on these flow and connections-type activities. I always mention how work is going and which friends I spent time with, so even my terrible analysis method has picked up on them through sheer quantity of data. But most people probably don't need to put in all that effort to figure this stuff out. Overall, it's not clear to me that mood tracking has any advantage over experience and introspection. At best, it's just a forcing factor if you're not natually inclined to this kind of reflection.
+Daylio is good at picking up on these flow and connections-type activities. I always mention how work is going and which friends I spent time with, so even my terrible analysis method has picked up on them through sheer quantity of data. But most people probably don't need to put in all that effort to figure this stuff out. Overall, it's not clear to me that mood tracking has any advantage over experience and introspection. At best, it's just a forcing factor if you're not naturally inclined to this kind of reflection.
 
 Mood tracking may be worse than introspection. Tracking might obscure things that affect your mood more than it illuminates them. It's easy to miss mundane things like diet, sleep, and exercise that have a large effect.
 
@@ -70,5 +70,5 @@ One of the most concrete positive impacts is that Daylio sends me old entries fr
 [^7]: For example, I moved to Seattle almost exactly years ago. From Wednesday August 24, 2024:
     > good - Still have covid. Moved in to Seattle apartment. Started reading the idiot (batuman). Walked around a lot. Dinner from a teriyaki place and ate in gasworks
 
-It reminds me of the time I discovered that Google Maps had been tracking and saving my location. It was so fun to look through and amazing how much I could remember about a day from just a little reminder about where I went. I was sad that I ultimately had to delete the data and disable the setting to protect my own privacy. Daylio is like that except it without Premium it doesn't even automatically backup my data Even if they did sell it, I don't mind people knowing that I like calling my friends.
+It reminds me of the time I discovered that Google Maps had been tracking and saving my location. It was so fun to look through and amazing how much I could remember about a day from just a little reminder about where I went. I was sad that I ultimately had to delete the data and disable the setting to protect my own privacy. Daylio is like that except it without Premium it doesn't even automatically backup my data. Even if they did sell it, I don't mind people knowing that I like calling my friends.
 
