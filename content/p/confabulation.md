@@ -1,7 +1,7 @@
 ---
 title: "On Confabulation"
 date: 2022-03-25T07:02:43-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 Once, towards the end of my first year of college, I was talking to the Senior who had given me a tour of campus before I applied.

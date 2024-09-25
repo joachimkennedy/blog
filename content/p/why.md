@@ -1,7 +1,7 @@
 ---
 title: "Why I'm Starting A Blog"
 date: 2021-06-10T16:17:32-07:00
-tags: ['2021']
+tags: ['2021', 'updates']
 ---
 
 Just over a year ago, I started a consistent weekly journaling habit.

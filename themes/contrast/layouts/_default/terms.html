@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ $Pages := .Pages }}
+
+{{ if .IsHome }}
+  {{ $Pages = where site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ end }}
+
+
+<article>
+  <header><h1>{{ .Title }}</h1></header>
+  <ul class="archive" style="list-style-type:none">
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    {{ end }}
+  </ul>
+  {{ .Content }}
+</article>
+{{ end }}

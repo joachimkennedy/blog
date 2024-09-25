@@ -1,7 +1,7 @@
 ---
 title: "How to Make Mush"
 date: 2024-03-13T07:24:02-07:00
-tags: ['2024']
+tags: ['2024', 'thoughts', 'how-to']
 ---
 
 The inspiration for this post is an exchange I had with a friend a few years ago. After stammering out my response to the question, “What do you like to cook?”---one of those questions with the power to make my mind go completely blank---I asked her the same question. She said, without a pause and with a self confidence I covet to this day, “I mostly make mush”.

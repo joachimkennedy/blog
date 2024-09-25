@@ -1,7 +1,7 @@
 ---
 title: "Conceptual Inflation"
 date: 2022-10-14T08:44:48-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 Recently (more than 6 months ago), my dad emailed the family [an article](https://marginalrevolution.com/marginalrevolution/2022/01/buy-things-not-experiences.html) as is customary.
@@ -61,5 +61,3 @@ I hear Sylvester McMonkey McBean is serving up a hot new adage: "Buy things; not
 
 The weird part about [worshipping your own intellect](https://www.youtube.com/watch?v=8CrOL-ydFMI&t=1156s) is that while it can get you closer to the truth, it doesn't have to.
 If the dull masses already believe something simple and true, no matter how uncomfortable it makes you to agree with them, you won't get more correct by believing the opposite no matter how well argued.
-
----

@@ -1,7 +1,7 @@
 ---
 title: "The Bottom Of My Todo List"
 date: 2022-06-11T08:44:14-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 At [the top of Paul Graham's todo list](http://paulgraham.com/todo.html) are the guiding principles, "Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy."
@@ -21,5 +21,3 @@ Similarly to the top of Paul's todo list, it discourages you from spending time 
 But also, as [Brian Tomasik notes](https://briantomasik.com/how-i-use-todo-lists/), it reminds you that the concept of completing your todo list is a fiction.
 If you complete your todo list, there's nothing left to do but die.
 That just means you didn't think hard enough about things you wanted to do.
-
----

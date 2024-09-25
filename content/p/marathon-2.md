@@ -1,7 +1,7 @@
 ---
 title: "Marathon Postmortem 2: Seattle"
 date: 2022-12-17T14:10:57-08:00
-tags: ['2022']
+tags: ['2022', 'life']
 ---
 
 A few weeks ago, on the anniversary of [my first marathon postmortem](../marathon), I ran my second marathon.

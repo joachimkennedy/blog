@@ -1,7 +1,7 @@
 ---
 title: "On Creativity"
 date: 2023-05-28T12:00:42-07:00
-tags: ['2023']
+tags: ['2023', 'thoughts']
 ---
 
 I was talking to a friend recently about creativity.

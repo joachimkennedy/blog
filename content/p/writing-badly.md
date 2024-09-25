@@ -1,7 +1,7 @@
 ---
 title: "Writing Badly"
 date: 2021-11-12T17:16:09-08:00
-tags: ['2021']
+tags: ['2021', 'writing']
 ---
 
 In my middle school English class discussions everyone pretty much had the same opinions about the books we read.

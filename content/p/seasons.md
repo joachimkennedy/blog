@@ -1,7 +1,7 @@
 ---
 title: "Happy Vernal Equinox!"
 date: 2022-03-19T07:02:33-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 I know I'm a little early, but I hope you'll indulge me.
@@ -53,5 +53,3 @@ There were a couple specific people I meant to reach out to, but I chickened out
 I didn't buy a bike, and I still can't decide if I will, so that's still a pebble in my shoe.
 Although I allowed myself to run less, I didn't replace that with stretching or core as much as I intended to.
 I've partially decided what to do in the Spring, but that is ultimately a job for tomorrow. Once again, Happy Vernal Equinox!
-
----

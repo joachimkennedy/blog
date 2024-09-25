@@ -1,7 +1,7 @@
 ---
 title: "Attention And Sleep"
 date: 2022-04-01T07:02:52-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 It has happened a few times already that just after I posted a blog post, I came across a better way of saying what I was trying to communicate.
@@ -65,5 +65,3 @@ I can only maintain that for about 5-10 seconds, but if I'm tired enough, that's
 Other methods for [sleep induction](https://en.wikipedia.org/wiki/Sleep_induction) I can think of (counting sheep and lullabies, even reading or listening to soothing ASMR) share the same property of replacing thoughts of the day with monotonous, repetitive thoughts.
 A friend of mine observed that if he's paying attention, just before falling asleep, his mind starts speaking nonsense sentences that he thinks of as a precursor to dreams.
 I also experience this, and I wonder how common it is.
-
----

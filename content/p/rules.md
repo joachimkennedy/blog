@@ -1,7 +1,7 @@
 ---
 title: "Rules For The Blog"
 date: 2021-06-10T21:39:16-07:00
-tags: ['2021']
+tags: ['2021', 'updates']
 ---
 
 As I mentioned in my last (and first) [post](../why), I find it helpful to enumerate goals and rules for new projects.

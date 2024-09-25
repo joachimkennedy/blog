@@ -1,7 +1,7 @@
 ---
 title: "Should"
 date: 2022-07-22T08:44:34-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 Fifteen seconds after my MIT interviewer asked about a mistake I had made and what I learned from it, I gave up on finding a non-awkward answer and told him about the time I had a crush when I was a sophomore.
@@ -41,5 +41,3 @@ They want explanations of the pros and cons and a description of the sort of per
 That said, I think that's about the limit of the Internet's usefulness in answering that sort of question, and I can equally imagine someone poring over articles and essays looking for an answer well beyond diminishing marginal returns.
 (It's easier to imagine doing things you've already done.)
 Similarly to my friend who felt like she should be doing schoolwork even when she had none, it's easy for the wires for moral obligation and simple personal benefit to cross.
-
----

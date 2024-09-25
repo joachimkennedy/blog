@@ -1,7 +1,7 @@
 ---
 title: "Staying Out"
 date: 2023-02-17T06:19:59-08:00
-tags: ['2023']
+tags: ['2023', 'life', 'best-of']
 ---
 
 This week, I played a game with myself called "pretend my apartment has been affected by an unpleasant, embarrassing, lingering sewage problem".

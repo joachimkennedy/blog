@@ -1,7 +1,7 @@
 ---
 title: "On Pickiness"
 date: 2022-02-12T07:01:43-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 Although it is most commonly used in the domain of food, pickiness can be equally applied to any other matter of taste.
@@ -46,5 +46,3 @@ I still try to avoid being in charge of the aux.
 I think this account does discount the social effects of being influenced by the people you surround yourself with.
 More than likely, if you're always listening to the music your friends are, you'll develop a taste for that.
 But similarly, there might be social pressure to try new foods.
-
----

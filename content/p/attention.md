@@ -1,7 +1,7 @@
 ---
 title: "My Attention Has Been Destroyed"
 date: 2022-01-22T07:01:14-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 When I was training for the decathlon in college, I noticed that multiple coaches for different events would use the word "attack".
@@ -88,5 +88,3 @@ But at the same time, it's worrying if/that people feel this is out of their con
 
 I did want to declare my conflicts of interest here at the end.
 I like using my phone and social media, so it would be nice if there's not really a problem and I don't have to worry about it.
-
----

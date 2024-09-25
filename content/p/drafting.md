@@ -1,7 +1,7 @@
 ---
 title: "On Drafts"
 date: 2022-02-26T07:01:58-08:00
-tags: ['2022']
+tags: ['2022', 'writing']
 ---
 
 This post will be a bit shorter than usual.
@@ -52,5 +52,3 @@ Like proteins, they are more suited for interacting with the world outside the c
 If we revisit the common writing advice, it's essentially saying that you should focus on transcribing your thoughts before translating them into something other people can digest.
 Trying to write the combine the two steps would be like trying to give DNA to a ribosome and expecting it to make a protein.
 I think we all know that would be ridiculous.
-
----

@@ -1,7 +1,7 @@
 ---
 title: "How To Grocery Shop"
 date: 2021-10-27T18:16:04-08:00
-tags: ['2021']
+tags: ['2021', 'how-to']
 ---
 
 Minor plagiarism warning: I'm about to describe how my mom buys groceries and pretend that I reasoned it out from first principles to make myself feel better about shopping inefficiently for a while.

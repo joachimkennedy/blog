@@ -1,7 +1,7 @@
 ---
 title: "I Couldn't Operant Condition Myself"
 date: 2022-03-03T07:02:05-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 **Almost certainly an idea stolen from someone else**
@@ -71,5 +71,3 @@ In general, I think it's easy to go from a neutral mood to a productive one.
 What's harder is that when I get home from work, I'm in a coma sort of mood, and it's not always clear how to turn that around other than exhausting myself on those mindless activities.
 I know there are some videos that leave me more inspired and lift my mood more than others.
 So that's an option I'm exploring, but in the back of my mind, I know I can't keep watching *Dead Poets Society* every weeknight.
-
----

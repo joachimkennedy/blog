@@ -1,7 +1,7 @@
 ---
 title: "Resolutions 2024"
 date: 2024-02-02T12:24:16-08:00
-tags: ['2024']
+tags: ['2024', 'life']
 ---
 
 Uncharacteristically, I started thinking about resolutions in early December. Maybe that sounds responsible, but actually I just looked at a bunch of hobbies and thought, *wouldn't it be cool if I got really good at that?* And I left my January 1st self to sift through the impulses and chaff. I never commit to my resolutions until the end of January anyway, so the anticipation bought me a trial month to see which ones I could stick with.

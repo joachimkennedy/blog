@@ -1,7 +1,7 @@
 ---
 title: "Emotions And Jameses"
 date: 2022-11-29T08:45:06-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 I recently had the pleasure of seeing James Acaster perform his new show, *Hecklers Welcome*, on his short US tour.
@@ -58,5 +58,3 @@ Instead of denying what you're feeling, it encourages you to direct it towards a
 On the other hand, I'm afraid to free solo El Cap.
 Of course if I did it I would want it to go well, but I would rather not do it at all.
 For people who ride rollercoasters and watch horror films, thrill-seeking is the whole point, but I would argue that for everyone else, there must be some positive motivation behind the fear whether it be keeping your job or being the center of attention.
-
----

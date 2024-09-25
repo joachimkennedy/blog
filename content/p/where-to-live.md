@@ -1,7 +1,7 @@
 ---
 title: "Where Should I Live?"
 date: 2022-01-14T07:01:00-08:00
-tags: ['2022']
+tags: ['2022', 'life']
 ---
 
 In college, I got some career advice about that I really like.
@@ -93,5 +93,3 @@ I don't know how they expect people to use this, but I kept toggling things unti
 Maybe it's just me, but the criteria seem all over the place.
 Trees, Commute, Health care.
 Say less.
-
----

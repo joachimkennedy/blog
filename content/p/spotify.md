@@ -1,7 +1,7 @@
 ---
 title: "How To Use Spotify"
 date: 2022-04-29T08:44:00-08:00
-tags: ['2022']
+tags: ['2022', 'how-to']
 ---
 
 # Prelude
@@ -118,5 +118,3 @@ There are some songs that are Instrumental and Happy and Socially Acceptable.
 There are other songs that are Good For Singing To and Happy and Not Socially Acceptable (mostly show tunes in this category) and there's no good way to play the overlap of all my Happy and Socially Acceptable songs without making a custom overlap playlist.
 And one for every other possible overlap.
 Who would design it like this?
-
----

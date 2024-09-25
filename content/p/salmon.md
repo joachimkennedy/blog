@@ -1,7 +1,7 @@
 ---
 title: "An Essay Of The Perfect Length"
 date: 2022-06-04T08:44:08-08:00
-tags: ['2022']
+tags: ['2022', 'review']
 ---
 
 I'd like to begin with a minor spoiler for *My Brilliant Friend* which I recently enjoyed.
@@ -67,5 +67,3 @@ If there ever were a concept that was impossible to convey, it would be that one
 And yet, faced with this nonsensical task, Eco calmly enumerates the requirements, possible methods, and impossibilities.
 He takes his time.
 He makes use of the words he needs to make his points but never beats around the bush.
-
----

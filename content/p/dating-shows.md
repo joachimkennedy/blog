@@ -1,7 +1,7 @@
 ---
 title: "Reality Dating Show Tier List"
 date: 2022-03-11T07:02:21-08:00
-tags: ['2022']
+tags: ['2022', 'review']
 ---
 
 I don't know how much I feel like disclaiming this.
@@ -115,5 +115,3 @@ In the final season, it seems that half the people are genuinely there to date, 
 I think this is fair (unlike The Bachelor, people don't talk much about being there for the "wrong reasons" (in fact, they usually ask new members why they're joining when they move in)).
 But it does create real problems when people pursue the self-promotion people and force them to try to reject them while maintaining their image but not betraying the real reasons they're there.
 Not my cup of tea.
-
----

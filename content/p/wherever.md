@@ -1,7 +1,7 @@
 ---
 title: "I'll Eat Wherever"
 date: 2021-12-14T06:40:18-08:00
-tags: ['2021']
+tags: ['2021', 'thoughts']
 ---
 
 It might be a little premature to say this, but after more than a month of weekly posts, I wanted to note that one of my fears (that I won't have enough to write about) has been demolished.

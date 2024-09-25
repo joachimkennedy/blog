@@ -1,7 +1,7 @@
 ---
 title: "Habits Are Overrated"
 date: 2022-06-24T08:44:27-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 This is a post about how people overemphasize the importance of habits.
@@ -40,5 +40,3 @@ So what's the difference if, one day, while learning colors in ASL, you feel lik
 
 At the latest, you should do things when you're motivated to do them.
 Habits are for doing things before you're motivated to do them, not an excuse to do things later.
-
----

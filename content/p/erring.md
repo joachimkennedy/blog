@@ -1,7 +1,7 @@
 ---
 title: "Err In The Other Direction"
 date: 2022-02-04T07:01:34-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 Of course I wish I had paid better attention in The Economics of Public Policy every day, but I especially wish I was paying attention on this particular day when the lecture was about effective tax policy.
@@ -59,5 +59,3 @@ Ideally, I would not fall off the balance beam, I would estimate my finances cor
 
 But it seems to me that when I consistently make the same mistake, it's because I think that the consequence of making the complementary mistake would be the end of the world.
 That is, of course you keep falling off the balance beam because you're so leaning so far away from the moat that it causes you to lose your balance, but if you just fell in once, you would realize that there are no crocodiles in the moat, and you'll be better able to balance in the future.
-
----

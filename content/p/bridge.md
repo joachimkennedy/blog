@@ -1,7 +1,7 @@
 ---
 title: "The Bridge Problem"
 date: 2022-10-02T08:44:41-08:00
-tags: ['2022']
+tags: ['2022', 'puzzle']
 ---
 
 # Preamble
@@ -95,5 +95,3 @@ Now that I'm done putting it off, I'm not sure the best way to handle more than 
 But that won't stop me from saying what I think it is.
 Please correct me if I'm wrong, but I think you can think of the problem as successively getting the slowest two people across (using whichever method discussed above is faster).
 I know the coolmathgames version had more than 4 people, but since flash games died, there's tragically no way for me to check my reasoning in a fun, interactive way.
-
----

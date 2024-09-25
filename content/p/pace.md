@@ -1,7 +1,7 @@
 ---
 title: "On Pace"
 date: 2022-12-26T19:46:16-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 

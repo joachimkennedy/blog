@@ -1,6 +1,7 @@
 ---
 title: "On Daily Mood Tracking"
 date: 2024-08-25T07:24:06-07:00
+tags: ['2024', 'thoughts', 'life']
 ---
 
 The only reason I’m writing this is that I let slip to a friend[^1] that I’ve been tracking my mood daily for the past 4 and a half years, and I couldn’t credibly argue that the practice hasn't conveyed some kind of expert status despite the fact that all I did was tell my phone how my day was whenever it asked me.
@@ -67,7 +68,7 @@ If I have made any lifestyle changes, I may be more active. I have no qualms wit
 
 One of the most concrete positive impacts is that Daylio sends me old entries from previous years every Thursday morning at 11:24. It's such a random time that it took me a while to realize it was the same every week. It brightens my day to remember good days, realize how far I've come, or get nostalgic. I'm a sucker for nostalgia[^7]. Also, the notification itself calls them "New Memories" which is the funniest thing you can call old memories.
 
-[^7]: For example, I moved to Seattle almost exactly years ago. From Wednesday August 24, 2022:
+[^7]: For example, I moved to Seattle almost exactly 2 years ago. From Wednesday August 24, 2022:
     > good - Still have covid. Moved in to Seattle apartment. Started reading the idiot (batuman). Walked around a lot. Dinner from a teriyaki place and ate in gasworks
 
 It reminds me of the time I discovered that Google Maps had been tracking and saving my location. It was so fun to look through and amazing how much I could remember about a day from just a little reminder about where I went. I was sad that I ultimately had to delete the data and disable the setting to protect my own privacy. Daylio is like that except it without Premium it doesn't even automatically backup my data. Even if they did sell it, I don't mind people knowing that I like calling my friends.

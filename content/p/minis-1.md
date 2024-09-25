@@ -1,7 +1,7 @@
 ---
 title: "Minis"
 date: 2023-02-24T11:56:54-08:00
-tags: ['2023']
+tags: ['2023', 'thoughts', 'review']
 ---
 
 In stark contrast to [last week](../sewage), I hardly did anything this week other than binge TV (I blame I surprise case of runner's knee).

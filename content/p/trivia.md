@@ -1,7 +1,7 @@
 ---
 title: "What Makes Good Trivia"
 date: 2024-04-27T06:48:22-07:00
-tags: ['2024']
+tags: ['2024', 'thoughts']
 ---
 
 *This post contains some example questions which you can attempt [here](https://learnedleague.com/match.php?100&9) before I discuss the answers later on.*

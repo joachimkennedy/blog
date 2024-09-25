@@ -1,7 +1,7 @@
 ---
 title: "Three Voices"
 date: 2024-06-13T07:05:43-07:00
-tags: ['2024']
+tags: ['2024', 'writing']
 ---
 
 Before this devolved into a Marathon / Resolutions / Sundance blog, people used to ask how I decided what to write about. The true and incomplete answer I would give was that writing is my way of getting tired thoughts out of my head. However brilliant an idea seems when it first comes to me, it will become boring if I let myself keep thinking it. There's something about writing, like finally listening to that catchy song, that unsticks things from my mind. Thinking that thought which was an indulgence becomes a chore. I associate it with really having to get that essay finished. Once it's done, it's a relief to not have to think about it. If it's too personal, I write it in a journal. Otherwise, it goes in the blog.

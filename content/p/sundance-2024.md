@@ -1,7 +1,7 @@
 ---
 title: "Sundance 2024"
 date: 2024-02-20T07:56:26-08:00
-tags: ['2024']
+tags: ['2024', 'life', 'review']
 ---
 
 I found myself at Sundance again this year. The same group from last year rented an even bigger house and invited more people. [Last year](../sundance-2023), I was mostly excited by the exclusivity of it: the chance to see films before big releases, to go into each screening with no expectations.

@@ -1,7 +1,7 @@
 ---
 title: "\"Social\" Media"
 date: 2023-07-20T07:00:24-07:00
-tags: ['2023']
+tags: ['2023', 'thoughts']
 ---
 
 ### Or How To Get Your Instagram Account Suspended

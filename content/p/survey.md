@@ -1,7 +1,7 @@
 ---
 title: "Blog Survey 2022"
 date: 2022-12-31T08:00:00-06:00
-tags: ['2022']
+tags: ['2022', 'updates']
 ---
 
 'Tis the season for the online community survey!

@@ -1,7 +1,7 @@
 ---
 title: "On Cliche"
 date: 2022-01-29T07:01:25-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 There's a passage at the beginning of Steven Pinker's *The Language Instinct* about what a miracle it is that writers can implant ideas, images, and feelings inside their readers' heads, just through words on a page.
@@ -40,5 +40,3 @@ What if you don't like yourself? Then shouldn't you try to be someone else?
 What if you do change? Would you still be yourself?
 It's the kind of advice you could spend a lifetime meditating on.
 I think there must be some shaggy dog anti-joke about a guy who goes on a long pilgrimage to see a reclusive guru and only gets the advice, "Be yourself."
-
----

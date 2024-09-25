@@ -1,7 +1,7 @@
 ---
 title: "Human Alignment Problems"
 date: 2022-02-18T07:01:51-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 I've been reading recently about the [Alignment Problem](https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky?utm_source=url), the concept that superintelligent AIs may not (probably won't) share human interests like keeping current humans alive and preventing human extinction.

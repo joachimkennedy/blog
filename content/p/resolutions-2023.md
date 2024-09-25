@@ -1,7 +1,7 @@
 ---
 title: "Resolutions 2023"
 date: 2023-01-27T08:02:37-08:00
-tags: ['2023']
+tags: ['2023', 'life']
 ---
 
 By popular demand, I am publishing my [birthday resolutions](../earnest).

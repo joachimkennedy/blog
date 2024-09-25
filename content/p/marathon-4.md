@@ -1,7 +1,7 @@
 ---
 title: "Marathon Postmortem 4: Boston"
 date: 2024-05-09T07:16:49-07:00
-tags: ['2024']
+tags: ['2024', 'life']
 ---
 
 Four years ago, I realized that my long runs weren't much shorter than a half marathon, and that, since I had some free time, I might as well bump them up to an even 13.1 miles. I ran all of Warner Parks and the Harpeth River Greenway that I could. When I moved back to Boston, I explored every direction from Kendall Square in an 8 mile radius.

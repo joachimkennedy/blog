@@ -1,7 +1,7 @@
 ---
 title: "Improv 101"
 date: 2023-06-09T15:54:24-07:00
-tags: ['2023']
+tags: ['2023', 'life']
 ---
 
 I recently finished taking an 8-week (+ 1 showcase) [improv 101 class](https://cszseattle.com/Education/).

@@ -1,7 +1,7 @@
 ---
 title: "Why I Was A Bad Lifeguard"
 date: 2022-04-08T07:03:01-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 In accordance with family tradition, my high school Summer job was lifeguarding at the JCC.
@@ -57,5 +57,3 @@ But unfortunately that only leaves us with entities that don't.
 Or maybe fortunately?
 At least then when we do feel desirous of freedom that doesn't come at the cost of rebelling against the good.
 Anyways, yeah, I was not a good lifeguard, but at least no one got hurt.
-
----

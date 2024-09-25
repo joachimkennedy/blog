@@ -1,7 +1,7 @@
 ---
 title: "A Stupid Argument For Stupidity"
 date: 2024-09-11T07:13:55-07:00
-tags: ['2024']
+tags: ['2024', 'thoughts']
 ---
 
 This post was originally submitted to Adam Mastroianni's [blog post contest](https://www.experimental-history.com/p/the-summer-2024-blog-post-competition). Adam is the clever mind behind [Experimental History](https://www.experimental-history.com/) with funny bones to pick with [peer review](https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review) and [productivity culture](https://www.experimental-history.com/p/excuse-me-but-why-are-you-eating). I found him through his legit psychology study written up as a blog post, "[Things could be better](https://www.experimental-history.com/p/things-could-be-better)". My favorite might be about [forgetting things we learned in school](https://www.experimental-history.com/p/youll-forget-most-of-what-you-learn). If it seems like I'm linking an awful lot, it's because I think so highly of him, and it's hard to pick just one to recommend. If that doesn't interest you, he just announced the [contest winners](https://www.experimental-history.com/p/blog-extravaganza-the-winners). I haven't gotten a chance to read them yet, but he said he was looking for weird, surprising posts, and it looks like that's what he got.

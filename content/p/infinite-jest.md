@@ -1,7 +1,7 @@
 ---
 title: "Infinite Jest Review"
 date: 2024-01-14T09:54:19-08:00
-tags: ['2024']
+tags: ['2024', 'review']
 ---
 
 > You will find out... [t]hat most Substance-addicted people are also addicted to thinking, meaning they have a compulsive and unhealthy relationship with their own thinking... [t]hat 99% of compulsive thinkers' thinking is about themselves.

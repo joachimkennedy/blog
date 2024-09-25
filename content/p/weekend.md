@@ -1,7 +1,7 @@
 ---
 title: "When Does The Weekend?"
 date: 2022-06-19T08:44:21-08:00
-tags: ['2022']
+tags: ['2022', 'thoughts']
 ---
 
 The year is 2022 CE.
@@ -31,5 +31,3 @@ The thought is that the same thing holds on the scale of weeks.
 Free time at the end of a week feels like a reward, to be used for true leisure.
 Free time at the beginning of the week could be used for leisure or for any other personal priority (no strange sleep schedule necessary!).
 With this one weird trick (read: Google calendar setting) you could turn all your last minute weekend plans into priorities!
-
----

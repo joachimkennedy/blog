@@ -1,7 +1,7 @@
 ---
 title: "For Earnestness"
 date: 2023-01-08T21:15:35-08:00
-tags: ['2023']
+tags: ['2023', 'thoughts']
 ---
 
 I think I come across as someone who is above New Year's resolutions.

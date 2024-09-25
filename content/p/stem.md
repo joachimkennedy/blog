@@ -1,7 +1,7 @@
 ---
 title: "STEM"
 date: 2023-11-14T11:42:43-08:00
-tags: ['2023']
+tags: ['2023', 'thoughts']
 ---
 
 I'm writing this on the eve of an early flight, so I'm feeling nostalgic for the high school days when I kept a very strict, self-imposed bedtime and any procrastinated 5-paragraph essay which I had, until minutes before, been laboring over sentence by sentence got wrapped up in a really unhinged, self-contradictory stream-of-consciousness in which I inevitably admitted to not really believing anything that I had just been claiming the moment the clock turned 9:30PM and I started feeling loopy and not a little encroached upon.

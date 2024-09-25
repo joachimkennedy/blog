@@ -1,7 +1,7 @@
 ---
 title: "The Case For Bullying"
 date: 2023-03-17T07:38:20-07:00
-tags: ['2023']
+tags: ['2023', 'thoughts']
 ---
 
 In my Sophomore year of high school, I joined Track after getting cut from Soccer (due to suspected collusion between the coaches, who were married).
