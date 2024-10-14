@@ -10,6 +10,6 @@ I enjoy running, [reading](https://www.goodreads.com/review/list/29740555-joachi
 I'm trying to help bring blogs back as the premier [social media](./p/social-media) which means that it's long overdue that I start assembling a [directory](./directory) of other blogs I like.
 
 ## Office Hours
-Office Hours are back! This time they're weekly on Tuesdays starting on Feb 6 at 6PM. If you want to come, you're welcome to RSVP. If the date on the calendar says "OH [confirmed]", that means someone else has already RSVPed and you're welcome to just show up. Calendar, details, and long-winded explanation of office hours [here](../p/office-hours).
+There's a slight scheduling change for the Fall/Winter. I'm pushing them back by an hour. They're still weekly on Tuesdays, but starting from Sept 24, they'll be at 7-10PM. If you want to come, you're welcome to RSVP. If the date on the calendar says "OH [confirmed]", that means someone else has already RSVPed and you're welcome to just show up. Calendar, details, and long-winded explanation of office hours [here](../p/office-hours).
 
 ![joa headshot](/joa.png "This is the face I make when I'm thinking of blog posts")
