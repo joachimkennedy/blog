@@ -1,7 +1,7 @@
 ---
 title: "Marathon Postmortem"
 date: 2021-11-26T13:11:55-08:00
-tags: ['2021', 'life']
+tags: ['2021', 'marathon', 'life']
 ---
 
 This is my analysis of my experience running my first official marathon, the Madison Marathon, on November 14th.
