@@ -48,7 +48,7 @@ This is also just a long-winded, fantastical way of saying these are the books I
 * *The Elements of Style*+ by Strunk and White
 * *Getting Things Done* by David Allen
 * *How To Travel With A Salmon* by Umberto Eco
-* *The Chairs Are Where The People Go*+ by Misha Glouberman (and Sheila Heti)
+* *The Chairs Are Where The People Go* by Misha Glouberman (and Sheila Heti)
 * *Slouching Towards Bethelehem* by Joan Didion
 * *On Photography*+; *Regarding the Pain of Others**+ by Susan Sontag
 
