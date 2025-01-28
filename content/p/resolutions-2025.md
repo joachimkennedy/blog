@@ -22,7 +22,7 @@ I talked to one person there. I told him my goal was to have fun. Then I beat a 
 
 The race itself was very fun, much more than a marathon. You get to do everyday activities like toweling off and putting on shoes as fast as you can. Your body feels so confused when you transition, but after you adjust, it feels better because you’re using slightly different muscles. It also makes it hard to pace. I want to try an Olympic length, but I’m afraid that wouldn’t be as fun unless I invested in a nice road bike and clipless pedals.
 
-Fittingly, I squeezed *The Corrections* in on Christmas flights as the 20th book of the year. Though I didn't read anything I'd gush about, highlights were *Middlemarch*, *Simple Passion*, *This is the Story of a Happy Marriage*, and *Teach Like a Champion* [^1]. I’ll keep the same goal for 2025 since it came down to the wire, but I’m not naming it as a resolution because I’ve already won.
+Fittingly, I squeezed *The Corrections* in on Christmas flights as the 20th book of the year. Though I didn't read anything I'd gush about, highlights were *Middlemarch*, *Simple Passion*, *This is the Story of a Happy Marriage*, and *Teach Like a Champion*[^1]. I’ll keep the same goal for 2025 since it came down to the wire, but I’m not naming it as a resolution because I’ve already won.
 
 [^1]: No resolution about movies, but my favorites were *Dìdi*, *Daughters*, *2001: A Space Odyssey*, *Burn After Reading*, and *Playtime* (and a Christmastime favorite, *The Shop Around the Corner*).
 
@@ -45,21 +45,23 @@ It’s pretty much the same as last year. A half hour of freewriting every weekd
 
 ### Go to the Olympic Peninsula
 
-Years ago, my sister said the Hoh Rainforest was a favorite stop on a long, Western road trip. I was so excited to go when I moved to Seattle, but I still haven’t been to the Olympic Peninsula at all, and that's embarrassing.
+Years ago, my sister said the Hoh Rainforest was a favorite stop on a long, Western road trip[^2]. I was so excited to go when I moved to Seattle, but I still haven’t been to the Olympic Peninsula at all, and that's embarrassing.
+
+[^2]: Correction: Mt Rainier was the favorite. Hoh was "ok". It just sounded the most exciting to me.
 
 ### Compost
 
-Composting feels like one of those rare unambiguously good deeds (and I won’t hear otherwise). I just learned that my building has a compost bin. I’m counting on this being an easy win. [^2]
+Composting feels like one of those rare unambiguously good deeds (and I won’t hear otherwise). I just learned that my building has a compost bin. I’m counting on this being an easy win.[^3]
 
-[^2]: My family learned to compost at a demonstration at the local Nature Center where they asked for food waste and we brought tin cans. 
+[^3]: My family learned to compost at a demonstration at the local Nature Center where they asked for food waste and we brought tin cans. 
 
 ### Secret resolution: Have more fun
 
 Having fun is a secret resolution because the moment I thought of it, I started having less fun. It’s a classic “pursuit of happiness” problem. I intend to forget it as soon as I publish this post. 
 
-I've kept a todo list for a few years now, and while I shudder to imagine the chaos my life would devolve into without it, it does have a strange tendency to turn everything into a chore. Likely because "Broil bechamel over whatever you want"[^3] is right next to "new drivers license". And the longer something fun stays on a todo list, the more it feels like something I'm putting off and have to force myself to do.
+I've kept a todo list for a few years now, and while I shudder to imagine the chaos my life would devolve into without it, it does have a strange tendency to turn everything into a chore. Likely because "Broil bechamel over whatever you want"[^4] is right next to "new drivers license". And the longer something fun stays on a todo list, the more it feels like something I'm putting off and have to force myself to do.
 
-[^3]: Fun in case it's not clear. Though I think I meant Mornay
+[^4]: Fun in case it's not clear. Though I think I meant Mornay
 
 This is about choosing the fun version of things rather than the chore. I'm reminded again of how unhappy I was with my *New Yorker* subscription because I felt so much pressure to keep up with it and read enough for it to be worthwhile and pick the most interesting articles. I recently discovered that I can just go and read it at the library. I can take myself on a field trip, and if I miss a week, there's not a stack of issues in my apartment.
 
