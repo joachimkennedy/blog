@@ -9,8 +9,8 @@ This is a list of people I personally know, like, and whose stuff I want to shar
 
 (If I've listed your site here and you'd like me to remove it, let me know.)
 
-* [Neotoma's Midden](https://neotoma.site/) ([rss](https://neotoma.site/index.xml)) is your older cousin and weird internet curator
-* [Dom](https://www.dominicmkennedy.com/music) ([rss](https://www.dominicmkennedy.com/music/rss.xml)) is my actual younger brother who has started reviewing albums ~~weekly~~. He's a hater, but I still support the project and am excited to learn about more music.
+* [Neotoma's Midden](https://neotoma.site/) ([rss](https://neotoma.site/index.xml)) is your older cousin and weird internet curator. Check out those bookmarks
+* [Dom](https://www.dominicmkennedy.com/music) ([rss](https://www.dominicmkennedy.com/music/rss.xml)) is my actual younger brother who has started reviewing albums ~~weekly~~. They lean towards jazz fusion, but there's plenty of variety and they're all hand-selected with love.
 * [Sophie's Close Friends](https://closefriends.substack.com/) ([rss](https://closefriends.substack.com/feed)) are privy to her thoughts on herself, the zeitgeist, and readers' hot gossip. Straight from the most tapped-in culture writer herself
 * [Maggie](https://magdalenekennedy.com/)'s site is not a blog, but it has very cool animations and photography
 * [Leo](https://www.fanfiction.net/u/14884959/leobkenn) writes fanfictions about Don Karnage and Megavolt among many others
