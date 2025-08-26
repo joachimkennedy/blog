@@ -26,11 +26,6 @@ theme = 'contrast'
     url = "/directory/"
     weight = "10"
 [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = "15"
-[[menu.main]]
     identifier = "rss"
     name = "rss"
     url = "/p/index.xml"
