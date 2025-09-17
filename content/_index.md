@@ -6,7 +6,7 @@ Hi! My name is Joachim Kennedy.
 I'm a software engineer based in Seattle.
 I enjoy running, [reading](https://www.goodreads.com/review/list/29740555-joachim?ref=nav_mybooks&shelf=read&sort=date_read), [watching movies](https://letterboxd.com/kennedyj/films/by/date/), playing chess and pickleball, wandering around, improv, karaoke, cooking, and trying new things. 
 
-Here is my [resume](/resume_f25-5.pdf).
+Here is my [resume](/resume-kennedy-joachim.pdf).
 
 ## Contact
 If you read anything here that resonates with you, I would be delighted to hear about it at joachimkennedy [at] gmail [dot] com!
