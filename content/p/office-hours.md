@@ -4,9 +4,9 @@ date: 2023-04-12T08:52:26-07:00
 tags: ['2023', 'updates', 'best-of']
 ---
 
-*tl;dr: If you're in Seattle, come hang out at my apartment [sometimes](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Updated Feb 2, 2024*
+### Update 2026: I have moved out of Seattle and Office Hours is over! Thank you to everyone who came and made it what it was. If you're curious about it, read my [review](../office-hours-review)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+*tl;dr: If you're in Seattle, come hang out at my apartment [sometimes](https://calendar.google.com/calendar/u/0?cid=MWFmZDZhZmUwNmZmNjhjMTFjOGYzMjVmNjMyMTNjNjM5ZTRlYTlkZjNlMDQ4NDJhYzkwNWU5YzUzMTE4YTIzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Updated Feb 2, 2024*
 
 One of my favorite parts of college was that I could walk into my suite kitchen for a glass of water and get caught in a conversation with whoever was working there.
 Or I could read in the floor lounge (flounge, affectionately) while other people beat some RPG.
