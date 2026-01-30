@@ -1,5 +1,4 @@
 ---
-date: 2024-14-10T07:24:16-08:00
 ---
 
 Hi! My name is Joachim Kennedy.
