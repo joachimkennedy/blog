@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale | default "en" }}">
+<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+<meta charset="utf-8">
+{{ hugo.Generator }}
+{{- if or .Description .Site.Params.description }}
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+{{- end }}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="alternate" type="application/rss+xml" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="{{ .Site.Title }}">
+{{- if or .Params.math .Site.Params.math }}
+{{- end }}
+
+<header>
+  {{ if not (gt (len .Site.Menus) 1) }}
+    <a href="{{ .Site.BaseURL }}" class="title">{{ .Site.Title }}</a>
+  {{ end }}
+  {{ range $menu, $items := .Site.Menus }}
+    <nav>
+    {{ range $items }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+    </nav>
+  {{ end }}
+</header>
+
+<main>
+    {{- block "main" . }}{{- end }}
+
+{{ if or .Next .Prev -}}
+<div id="nextprev">
+    {{- with .PrevInSection }}
+    <a href="{{ .RelPermalink}}"><div id="prevart">&#8592; {{.Title}}</div></a>
+    {{ end -}}
+    {{- with .NextInSection -}}
+    <a href="{{ .RelPermalink}}"><div id="nextart">{{.Title}} &#8594;</div></a>
+    {{ end -}}
+</div>
+{{ end -}}
+</main>
+
+</html>
