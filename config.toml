@@ -1,8 +1,8 @@
 baseURL = 'https://joachimkennedy.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Joachim Kennedy'
 author = 'Joachim Kennedy'
-theme = 'contrast'
+theme = 'ugly'
 
 [params]
     minimal = true

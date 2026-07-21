@@ -1,6 +1,7 @@
 ---
 title: "Fall Blog Updates"
 date: 2024-10-14T07:27:28-07:00
+tags: ['2024', 'updates']
 ---
 
 Happy Belated Fall! Usually I just make updates to this site without telling anyone or drawing attention to them, but I've accumulated a few things that need changing, and these might go better if people knew about them.
