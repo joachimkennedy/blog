@@ -11,24 +11,24 @@ theme = 'ugly'
 
 [menu]
 [[menu.main]]
+    identifier = "now"
+    name = "Now"
+    url = "/now/"
+    weight = "1"
+[[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/p/"
     weight = 2
-[[menu.main]]
-    identifier = "archive"
-    name = "Archive"
-    url = "/archive/"
-    weight = 3
 [[menu.main]]
     identifier = "directory"
     name = "Directory"
     url = "/directory/"
     weight = "10"
 [[menu.main]]
-    identifier = "rss"
-    name = "rss"
-    url = "/p/index.xml"
+    identifier = "bookmarks"
+    name = "Bookmarks"
+    url = "/bookmarks/"
     weight = "20"
 
 [markup]
