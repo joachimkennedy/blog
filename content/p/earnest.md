@@ -45,5 +45,3 @@ If you're not earnest, you just have to skip them and deride those who make them
 
 (There may also be an element of [conceptual inflation](../turns-out) to resolutions. People who have read about the efficacy of resolutions want to separate themselves from those who make resolutions.
 In that case, I am pulling the exact same move in the opposite direction.)
-
----
